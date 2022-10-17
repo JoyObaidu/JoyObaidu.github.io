@@ -1,21 +1,33 @@
-Overview
+#Frontend Mentor - Prroduct preview card component solution
 
-screenshot 
-![Screenshot 2022-10-12 at 02-25-27 HTML and CSS layout](https://user-images.githubusercontent.com/106669781/195310236-c22f709a-bda3-4e9c-b228-ef6496e8aab6.png)
+## Table of Contents
 
-Links
-https://github.com/JoyObaidu/JoyObaidu.github.io.git
+# Overview
+- The Challenge
+users should be able to :
+-View the optional layout depending on their device's screen size.
+- see hover and focus states for interactive elements.
 
-Built with
-* CSS custom properties
-* Semantic HTML5 markup
+##Screenshots
 
-What I learned
-I learnt about some css styling syntax like the margin and padding.
+### Links
+-
+-
 
-Author
-* Joy Obaidu
-* https://github.com/JoyObaidu/JoyObaidu.github.io.git
+## My process
 
-Acknowledgement
-* Front end mentor
+### Built with
+-Semantic HTML5 markup
+-CSS custom properties
+-Flexbox
+- Mobile-first-workflow
+
+### What I learned
+
+### Continued Development
+
+### useful resources
+
+## Author
+
+## Acknowledgements
