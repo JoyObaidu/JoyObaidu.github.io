@@ -1,33 +1,14 @@
-#Frontend Mentor - Prroduct preview card component solution
+## Overview
 
-## Table of Contents
+### The challenge
 
-# Overview
-- The Challenge
-users should be able to :
--View the optional layout depending on their device's screen size.
-- see hover and focus states for interactive elements.
+Users should be able to:
 
-##Screenshots
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
-### Links
--
--
+### Screenshot
 
-## My process
 
-### Built with
--Semantic HTML5 markup
--CSS custom properties
--Flexbox
-- Mobile-first-workflow
-
-### What I learned
-
-### Continued Development
-
-### useful resources
-
-## Author
-
-## Acknowledgements
